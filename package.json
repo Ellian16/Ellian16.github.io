@@ -1,0 +1,22 @@
+{
+  "name": "ellian16.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ellian16/Ellian16.github.io.git"
+  },
+  "author": "Ellian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ellian16/Ellian16.github.io/issues"
+  },
+  "homepage": "https://github.com/Ellian16/Ellian16.github.io#readme",
+  "dependencies": {
+    "tailwindcss": "^1.8.12"
+  }
+}
