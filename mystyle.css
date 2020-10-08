@@ -1,0 +1,11 @@
+.div1 {
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 30px;
+    background-image: url("media/EnganaTrouxa.jpg");
+    padding-bottom: 20%;
+}
+
+.background-image {
+    filter: blur(5px)
+}
